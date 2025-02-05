@@ -13,6 +13,9 @@ email_scraper.py = only scrape from domain only (Legal scraping).
 
 email_scraper_large.py = scrape the whole web, more illegal way.
 
+
+![Project](https://github.com/user-attachments/assets/51bb1a76-35ea-46d6-9d13-8644feca31ec)
+
 ✅ Strengths
 
     User-Agent Header: Helps avoid bot detection.
