@@ -18,10 +18,7 @@ email_scraper.py = only scrape from domain only (Legal scraping).
 
 email_scraper_large.py = scrape the whole web, more illegal way.
 
-
-![Project](https://github.com/user-attachments/assets/51bb1a76-35ea-46d6-9d13-8644feca31ec)
-
-(i used hackthissite.com to test the script, as you can see it says no e-mails found, this is because hackthissite doesn't has any e-mails stored on the web, but this is a legal webpage to test your tools. But this tool is working, i can tell.)
+![1](https://github.com/user-attachments/assets/6330f8d9-680d-4451-bb6b-a27b19b91c04)
 
 Strengths
 
