@@ -5,13 +5,13 @@ Email scraper by WhoamiGroot,
 
 You need to install,
 ```
+git clone https://github.com/WhoamiGroot/Email-Scraper-Ultimate
+```
+```
 pip install lxml
 ```
 ```
 pip install requests
-```
-```
-git clone https://github.com/WhoamiGroot/Email-Scraper-Ultimate
 ```
 
 email_scraper.py = only scrape from domain only (Legal scraping).
