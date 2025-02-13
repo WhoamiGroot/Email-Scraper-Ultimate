@@ -4,10 +4,12 @@ Ultimate Email Scraper 2025
 Email scraper by WhoamiGroot,
 
 You need to install,
-
+```
 pip install lxml
-
+```
+```
 git clone https://github.com/WhoamiGroot/Email-Scraper-Ultimate
+```
 
 email_scraper.py = only scrape from domain only (Legal scraping).
 
