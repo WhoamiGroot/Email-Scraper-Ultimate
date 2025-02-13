@@ -32,7 +32,6 @@ Strengths
     Validates Content Type: Ensures non-HTML pages are skipped.
     Saves Extracted Emails to a File: Makes it easy to reference later.
 
-Key Improvements:
 
  -   User-Agent Spoofing: Prevents easy detection by anti-bot measures.
  -   Better URL Handling: Uses urllib.parse.urljoin() to fix relative URLs.
@@ -60,7 +59,6 @@ How It Works:
     Handles Errors: Ignores missing schemas, connection issues, and allows for manual interruption (Ctrl+C).
     Outputs Found Emails.
 
-Potential Improvements:
 
     Handle Robots.txt: Respect robots.txt to avoid violating site policies.
     Use Session for Efficiency: requests.Session() reduces redundant connections.
@@ -68,14 +66,6 @@ Potential Improvements:
     Limit Scope: Avoid crawling external domains unless specified.
     Concurrency: Use asyncio or multiprocessing for faster scraping.
     User-Agent Spoofing: Some sites block bots; using headers can help.
-    
-    Final Thoughts
-
-With these enhancements, your script will be:
-
-    More efficient (avoiding duplicate URLs).
-    More accurate (handling different email formats).
-    More adaptable (user-defined settings).
     
     
 Credit me: WhoamiGroot.
