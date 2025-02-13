@@ -20,7 +20,7 @@ email_scraper_large.py = scrape the whole web, more illegal way.
 
 (i used hackthissite.com to test the script, as you can see it says no e-mails found, this is because hackthissite doesn't has any e-mails stored on the web, but this is a legal webpage to test your tools. But this tool is working, i can tell.)
 
-✅ Strengths
+Strengths
 
     User-Agent Header: Helps avoid bot detection.
     Restricts Crawling to Target Domain: Prevents unnecessary external site scanning.
@@ -37,9 +37,9 @@ Key Improvements:
  -   More Efficient Checking: Prevents duplicate URL scraping.
  -   Timeout for Requests: Prevents hanging on slow websites.
 
-✅ Improves URL handling (ensures absolute URLs, avoids duplicates)
-✅ Adds headers (mimics a real browser to reduce blocking)
-✅ Handles exceptions more gracefully
+Improves URL handling (ensures absolute URLs, avoids duplicates)
+Adds headers (mimics a real browser to reduce blocking)
+Handles exceptions more gracefully
 
 
 How It Works:
