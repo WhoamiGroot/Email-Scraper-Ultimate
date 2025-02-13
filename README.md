@@ -8,6 +8,9 @@ You need to install,
 pip install lxml
 ```
 ```
+pip install requests
+```
+```
 git clone https://github.com/WhoamiGroot/Email-Scraper-Ultimate
 ```
 
